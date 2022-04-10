@@ -1,1 +1,7 @@
 code5.txt
+
+new line added to code5.txt
+:wq!
+
+2nd line added to code5.txt
+
