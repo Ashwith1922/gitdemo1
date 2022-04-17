@@ -1,5 +1,5 @@
 code12.txt
 
 change done by git user locally
-:wq!
+change done in the remote repo - github user
 
